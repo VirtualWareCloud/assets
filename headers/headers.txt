@@ -1,0 +1,9 @@
+/assets/
+ ├── icons/
+ │   ├── NeonShareIcon.png
+ │   └── HeroShareIcon.svg
+ ├── logos/
+ ├── banners/
+ └── favicons/
+ └── headers/
+ └── footers/
