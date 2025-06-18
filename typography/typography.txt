@@ -1,0 +1,14 @@
+/assets/
+ ├── animations/         # Lottie JSONs, AOS configs
+ ├── banners/            # Hero/header visuals
+ ├── color-schemes/      # HEX, SCSS, or JSON palettes
+ ├── components/         # Modular UI snippets (HTML, CSS, JS)
+ ├── favicons/           # ICO, PNG, SVG favicon sets
+ ├── footers/            # Footer HTML/CSS templates
+ ├── headers/            # Header/navigation designs
+ ├── icons/              # All SVG/PNG icon assets
+ ├── logos/              # Logos for projects or brands
+ ├── slideshows/         # JS sliders, carousels, galleries
+ ├── themes/             # Complete UI themes (luxury, minimal, dark)
+ ├── typography/         # Font pairings, Google Fonts configs
+ └── utilities/          # Grid systems, spacing helpers, animations
